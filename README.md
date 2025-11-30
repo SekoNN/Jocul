@@ -112,7 +112,7 @@ Pe parcursul proiectului am folosit Git pentru:
 git clone LINKUL_TAU_DE_REPOSITORY
 
 
-Autor
+## Autor
 
 Nume: Gavrilas Nicolae
 

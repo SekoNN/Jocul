@@ -111,13 +111,3 @@ Pe parcursul proiectului am folosit Git pentru:
 ```bash
 git clone LINKUL_TAU_DE_REPOSITORY
 
-
-## Autor
-
-Nume: Gavrilas Nicolae
-
-Specialitatea: Programarea și Testarea Produselor de Program
-
-Instituția: CEITI
-
-Anul: II (2025)
